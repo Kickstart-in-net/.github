@@ -67,14 +67,5 @@ Traditional freelancing platforms often suffer from:
 
 **Kickstart** has the potential to revolutionize the gig economy by providing a secure, growth-oriented platform that reduces payment scams, enhances freelancer skills, and ensures better job matching.
 
-## 💰 Revenue Model
-
-1. **Subscription-Based Model** 🔄
-   - **Enhanced Cloud Storage & Speed**
-   - **Insurance & Legal Assistance**
-   - **Premium Profile Features**
-2. **Commission Model** 💼
-   - **5% commission** on transactions made through our escrow system.
 ---
-
 🌟 **Join us on this journey to redefine the future of freelancing!**
