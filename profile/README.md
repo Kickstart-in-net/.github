@@ -78,7 +78,7 @@ Traditional freelancing platforms often suffer from:
 
 ## 🤝 Partnership with APISetu
 
-We're excited to partner with **APISetu** to implement PAN verification, ensuring compliance with Indian tax regulations. As we grow, we plan to integrate more APIs to enhance our platform's functionality.
+We're excited to announce that we have applied for partnership with [**APISetu**](https://apisetu.gov.in/) to implement PAN verification, ensuring compliance with Indian tax regulations. As we grow, we plan to integrate more APIs to enhance our platform's functionality.
 
 ---
 
