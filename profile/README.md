@@ -67,15 +67,6 @@ Traditional freelancing platforms often suffer from:
 
 **Kickstart** has the potential to revolutionize the gig economy by providing a secure, growth-oriented platform that reduces payment scams, enhances freelancer skills, and ensures better job matching.
 
-## 💰 Revenue Model
-
-1. **Subscription-Based Model** 🔄
-   - **Enhanced Cloud Storage & Speed**
-   - **Insurance & Legal Assistance**
-   - **Premium Profile Features**
-2. **Commission Model** 💼
-   - **5% commission** on transactions made through our escrow system.
-
 ## 🤝 Partnership with APISetu
 
 We're excited to announce that we have applied for partnership with [**APISetu**](https://apisetu.gov.in/) to implement PAN verification, ensuring compliance with Indian tax regulations. As we grow, we plan to integrate more APIs to enhance our platform's functionality.
