@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.kickstart.in.net/logo.svg" alt="Kickstart Logo" />
+</p>
+
 # 🚀 Kickstart - The Future of Freelancing
 
 Welcome to **Kickstart**! 🎉 We're revolutionizing the freelancing landscape with a cutting-edge platform that seamlessly connects software freelancers with job opportunities, offering secure payments, AI-driven skill verification, and personalized growth paths.
